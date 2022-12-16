@@ -1,0 +1,14 @@
+{
+    "activities": [
+    {"id":"1", "name": "Marche en forêt"},
+    {"id":"2","name": "Baignade et jeux d’eau"},
+    {"id":"3","name":" Jeu de washers"},
+    {"id":"4","name":"Sports d’équipe"},
+    {"id":"5","name":"Feu de camp"},
+    {"id":"6","name":"Observation des étoiles"},
+    {"id":"7","name":"Rafting"},
+    {"id":"8","name":"Tir à l'arc"},
+    {"id":"9","name":"Pétanque"},
+    {"id":"10","name":"Football"}
+    ]
+  }
